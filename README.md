@@ -17,7 +17,9 @@ Cloud native tech stack.
 
 - CNCF
   - cloud native computing foundation
+- Helm
+   - yum/apt of K8S
+   - yaml
 - harbor
    - k8s repository
 - rancher
-- helm charts
